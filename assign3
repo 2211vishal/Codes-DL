@@ -1,3 +1,5 @@
+###Build the image classification model by dividing the model into following stages#######
+
 #importing the required packages
 import tensorflow as tf
 from keras.models import Sequential
