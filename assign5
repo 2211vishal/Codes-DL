@@ -1,3 +1,5 @@
+##### implement the continous bag of word model stages can be###
+
 #importing libraries
 
 from keras.preprocessing import text
